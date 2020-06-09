@@ -2,17 +2,19 @@
 
 > Front-end com Bootstrap, PHP Básico, CSS e HTML**
 
+<h3>
 1. Blog Simples
-
+  
 2. Css e Html
 
-3.Bootstrap v4.4.1.
+3. Bootstrap v4.4.1.
 
 4. Totalmente responsivo e simples.
 
 5. Cores do Blog: Azul, Branco e Preto.
 
 6. O projecto está dividivo em 5 partes, da seguinte forma:
+</h3>
 
 > Include Header
 
