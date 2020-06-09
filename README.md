@@ -13,7 +13,7 @@
 
 5. Cores do Blog: Azul, Branco e Preto.
 
-6. O projecto está dividivo em 5 partes, da seguinte forma:
+6. O projecto está dividivo da seguinte forma:
 </h3>
 
 > Include Header
